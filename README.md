@@ -1,2 +1,2 @@
 # ARC-CPT
-Cognitive Pretrained Transformer for ARC Prize
+Cognitive Reinforced Transformer for ARC Prize
